@@ -8,22 +8,22 @@ Cambiar la extención de una serie de imágenes de .ppm a .png
 * Carpetas secundarias, contenidas por la carpeta principal. 
 * Imágenes de las carpetas secundarias 
 #### Extructura de directorios de entrada
-==> Seniales  
-====> Seniales1 
-======> img.ppm 
-======> img.ppm 
-======> img.ppm 
-======> ... 
-====> Seniales2 
-======> img.ppm 
-======> img.ppm 
-======> img.ppm 
-======> ... 
-====> Seniales3 
-======> img.ppm 
-======> img.ppm 
-======> img.ppm 
-======> ... 
+==> Seniales     
+====> Seniales1   
+======> img.ppm   
+======> img.ppm   
+======> img.ppm   
+======> ...   
+====> Seniales2   
+======> img.ppm   
+======> img.ppm   
+======> img.ppm   
+======> ...   
+====> Seniales3   
+======> img.ppm   
+======> img.ppm   
+======> img.ppm   
+======> ...   
 ### Procedimiento 
 * Tomar la carpeta principal e ingresar en ella 
 * Crear una nueva carpeta principal
