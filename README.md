@@ -36,20 +36,20 @@ Cambiar la extención de una serie de imágenes de .ppm a .png
 * Carpetas secundarias nuevas, contenidas por la carpeta principal
 * Imágenes de las carpetas secundarias con extensión .png
 #### Extructura de directorios de entrada
-==> Seniales  
-====> Seniales1 
-======> img.png 
-======> img.png 
-======> img.png 
-======> ... 
-====> Seniales2 
-======> img.png 
-======> img.png 
-======> img.png 
-======> ... 
-====> Seniales3 
-======> img.png 
-======> img.png 
-======> img.png 
-======> ... 
+==> Seniales   
+====> Seniales1   
+======> img.png   
+======> img.png   
+======> img.png   
+======> ...   
+====> Seniales2   
+======> img.png   
+======> img.png   
+======> img.png   
+======> ...   
+====> Seniales3    
+======> img.png   
+======> img.png   
+======> img.png   
+======> ...   
 
